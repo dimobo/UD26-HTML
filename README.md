@@ -1,2 +1,2 @@
-# UD26
- Repositorio creado para los ejercicios de la UD26
+# UD26-HTML
+Repositorio creado para las tareas de HTML / CSS de la UD26
